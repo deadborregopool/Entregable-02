@@ -43,6 +43,4 @@ This web application provides functionality for user registration, login, and sa
 - Integrate Angular or React for a dynamic frontend experience.
 - Expand the testing suite for improved reliability.
 
-## License
-This project is licensed under the MIT License. Feel free to use and modify it.
 
