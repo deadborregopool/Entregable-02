@@ -39,8 +39,5 @@ This web application provides functionality for user registration, login, and sa
 
 ## Future Enhancements
 - Refactor the controller for better separation of concerns.
-- Add CSRF protection and input sanitization for enhanced security.
-- Integrate Angular or React for a dynamic frontend experience.
-- Expand the testing suite for improved reliability.
 
 
